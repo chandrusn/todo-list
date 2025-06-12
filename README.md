@@ -6,7 +6,7 @@ A simple and visually appealing To-Do List web application using **HTML**, **CSS
 
 ## 🚀 Demo
 
-![Demo](./screenshot.png)
+![Demo](screenshot.png)
 
 ---
 
